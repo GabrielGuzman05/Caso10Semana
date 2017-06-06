@@ -1,0 +1,9 @@
+p:Nombre:Apellido:13:Direccion1:Direccion2
+e:Nombre:Apellido:14:Universidad:Carrera:Direccion1:Direccion2
+p:Nombre:Apellido:13:Direccion1:Direccion2
+p:Nombre:Apellido:13:Direccion1:Direccion2
+e:asd:asd:131:asd:zxvasdf:asfqwf asdf:asvzqwr
+p:Juan:Pedrero:20:Maliqueo 277
+p:Pedro:Manada:21:Manahuel 192
+e:Pablo:Barria:28:Universidad de la Frontera:ICI:En frente de la U
+e:Pedro:Juan:12431241:1251243:124123:ansufasfjip
